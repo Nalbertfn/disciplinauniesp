@@ -1,0 +1,11 @@
+1ª Criar um repositório no github
+2ª Copiar URL do git 
+3ª git clone https://github.com/Nalbertfn/disciplinauniesp.git
+4ª Criando os documentos indicados
+5ª Comando (LS)
+6ª Comando (git status)
+7ª Comando (git add)
+8ª Comando (git commit -m)
+9ª Comando (git push origin main)
+10ª Comando (git status)
+11ª 
